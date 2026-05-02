@@ -54,7 +54,7 @@ public class RareEnemyKillers {
     }
   }
   @EventListener
-  public static void gatherEquipmentTypes(final GatherEquipmentTypesEvent event) {
+  public void gatherEquipmentTypes(final GatherEquipmentTypesEvent event) {
     event.add(Weapons.RARE_SLAYERP.get(), EquipmentTypes.LONGSWORD);
     event.add(Weapons.RARE_SLAYERC.get(), EquipmentTypes.LONGSWORD);
     event.add(Weapons.RARE_IMPALERP.get(), EquipmentTypes.POLEARM);
