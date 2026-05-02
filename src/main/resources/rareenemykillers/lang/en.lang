@@ -1,0 +1,58 @@
+# Global config
+rareenemykillers.name=Rare Enemy Killers
+
+// DART
+
+rareenemykillers.equipment.rare_slayerp.name=Rare Slayer
+rareenemykillers.equipment.rare_slayerp.description=Made for slaying rare\nenemies.\nGuaranteed poison.
+
+rareenemykillers.equipment.rare_slayerc.name=Rare Slayer
+rareenemykillers.equipment.rare_slayerc.description=Made for slaying rare\nenemies.\nGuaranteed confusion.
+
+// LAVITZ/ALBERT
+
+rareenemykillers.equipment.rare_impalerp.name=Rare Impaler
+rareenemykillers.equipment.rare_impalerp.description=Made for slaying rare\nenemies.\nGuaranteed poison.
+
+rareenemykillers.equipment.rare_impalerc.name=Rare Impaler
+rareenemykillers.equipment.rare_impalerc.description=Made for slaying rare\nenemies.\nGuaranteed confusion.
+
+// SHANA/MIRANDA
+
+rareenemykillers.equipment.rare_shotp.name=Rare Shot
+rareenemykillers.equipment.rare_shotp.description=Made for slaying rare\nenemies.\nGuaranteed poison.
+
+rareenemykillers.equipment.rare_shotc.name=Rare Shot
+rareenemykillers.equipment.rare_shotc.description=Made for slaying rare\nenemies.\nGuaranteed confusion.
+
+// ROSE
+
+rareenemykillers.equipment.rare_piercerp.name=Rare Piercer
+rareenemykillers.equipment.rare_piercerp.description=Made for slaying rare\nenemies.\nGuaranteed poison.
+
+rareenemykillers.equipment.rare_piercerc.name=Rare Piercer
+rareenemykillers.equipment.rare_piercerc.description=Made for slaying rare\nenemies.\nGuaranteed confusion.
+
+// HASCHEL
+
+rareenemykillers.equipment.rare_impactp.name=Rare Impact
+rareenemykillers.equipment.rare_impactp.description=Made for slaying rare\nenemies.\nGuaranteed poison.
+
+rareenemykillers.equipment.rare_impactc.name=Rare Impact
+rareenemykillers.equipment.rare_impactc.description=Made for slaying rare\nenemies.\nGuaranteed confusion.
+
+// MERU
+
+rareenemykillers.equipment.rare_bonkerp.name=Rare Bonker
+rareenemykillers.equipment.rare_bonkerp.description=Made for slaying rare\nenemies.\nGuaranteed poison.
+
+rareenemykillers.equipment.rare_bonkerc.name=Rare Bonker
+rareenemykillers.equipment.rare_bonkerc.description=Made for slaying rare\nenemies.\nGuaranteed confusion.
+
+// KONGOL
+
+rareenemykillers.equipment.rare_dividerp.name=Rare Divider
+rareenemykillers.equipment.rare_dividerp.description=Made for slaying rare\nenemies.\nGuaranteed poison.
+
+rareenemykillers.equipment.rare_dividerc.name=Rare Divider
+rareenemykillers.equipment.rare_dividerc.description=Made for slaying rare\nenemies.\nGuaranteed confusion.
