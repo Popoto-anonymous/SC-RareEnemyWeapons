@@ -12,7 +12,7 @@ Meru
 Donau Equipment shop, same as the others
 
 Kongol
-Queen Fury Equipment shop, same as others
+Fueno Equipment shop, same as others
 
 ALL
 Vellweb equip shop, 100G Each, should be 100% confusion chance to farm rainbow birds
